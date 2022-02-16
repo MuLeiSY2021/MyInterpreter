@@ -1,0 +1,27 @@
+vac MultiList[ box index ] <
+    loop[ box i = 0 / box < index / box++ ] <
+        loop[ box o = 0 / o <= i / o ++] <
+            box multi = o * i/
+            putW[ ]/
+            putBox[i]/
+            putW[ ]/
+            putW[x]/
+            putW[ ]/
+            putBox[o]/
+            putW[ ]/
+            putW[=]/
+            putW[ ]/
+            putBox[multi]/
+            putW[ ]/
+        >
+        putW['\lf']/
+    >
+>
+
+box core[] /
+<
+	box a = 9/
+	MultiList[a]/
+	back 0/
+>
+~~~~

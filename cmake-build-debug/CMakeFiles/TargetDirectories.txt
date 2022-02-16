@@ -1,0 +1,3 @@
+D:/MySpace/WriteCode/C/MyProject/MyInterpreter/cmake-build-debug/CMakeFiles/MyInterpreter.dir
+D:/MySpace/WriteCode/C/MyProject/MyInterpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MySpace/WriteCode/C/MyProject/MyInterpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
